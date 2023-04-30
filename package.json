@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "command-line-args": "^5.2.1",
+    "node-wget": "^0.4.3",
+    "request": "^2.88.2"
+  }
+}
